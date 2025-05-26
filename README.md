@@ -41,7 +41,7 @@ _Ajouter ici une capture de l’interface graphique si disponible._
 ## 🛠️ Lancer le projet
 
 ```bash
-python app.py
+python CSV Uploader App Procedural Final.py
 🧑‍💻 Auteur
 Ce projet a été réalisé par NGUYEN Chi Thanh dans le cadre de la formation Python initiale (2025).
 
@@ -93,7 +93,7 @@ The main goal was to apply the skills acquired during the Python training by bui
 ## 🛠️ Run the Project
 
 ```bash
-python app.py
+python CSV Uploader App Procedural Final.py
 Make sure pandas is installed:
 
 bash
