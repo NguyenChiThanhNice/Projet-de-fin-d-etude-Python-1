@@ -38,7 +38,8 @@ L'objectif principal était de mettre en pratique les compétences acquises pend
 
 ## 🛠️ Lancer le projet
 
-```bash
+bash
+
 python CSV Uploader App Procedural mode.py
 🧑‍💻 Auteur
 Ce projet a été réalisé par NGUYEN Chi Thanh dans le cadre de la formation Python initiale (2025).
@@ -85,7 +86,8 @@ The main goal was to apply the skills acquired during the Python training by bui
 
 ## 🛠️ Run the Project
 
-```bash
+bash
+
 python CSV Uploader App Procedural mode.py
 Make sure pandas is installed:
 
