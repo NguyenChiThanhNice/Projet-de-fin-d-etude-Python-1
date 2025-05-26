@@ -1,3 +1,5 @@
+FRENCH
+
 # 🧩 Gestionnaire de Fichiers CSV avec Interface Graphique (Tkinter)
 
 Ce projet est une application Python développée dans le cadre de mon projet de fin de formation en Python (niveau initial). Elle permet de :
@@ -41,10 +43,9 @@ python CSV Uploader App Procedural mode.py
 🧑‍💻 Auteur
 Ce projet a été réalisé par NGUYEN Chi Thanh dans le cadre de la formation Python initiale (2025).
 
-#############################################################################################################
 
 
-
+ENGLISH
 
 # 🧩 CSV File Manager with Graphical Interface (Tkinter)
 
