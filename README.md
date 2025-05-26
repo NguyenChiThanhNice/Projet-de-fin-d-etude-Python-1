@@ -34,14 +34,10 @@ L'objectif principal était de mettre en pratique les compétences acquises pend
 - 📊 Tableau interactif (Treeview)
 - 📤 Export CSV des résultats filtrés
 
-## 📸 Capture d'écran (optionnel)
-
-_Ajouter ici une capture de l’interface graphique si disponible._
-
 ## 🛠️ Lancer le projet
 
 ```bash
-python CSV Uploader App Procedural Final.py
+python CSV Uploader App Procedural mode.py
 🧑‍💻 Auteur
 Ce projet a été réalisé par NGUYEN Chi Thanh dans le cadre de la formation Python initiale (2025).
 
@@ -86,19 +82,14 @@ The main goal was to apply the skills acquired during the Python training by bui
 - 📊 Interactive table (Treeview)
 - 📤 CSV export of filtered results
 
-## 📸 Screenshot (optional)
-
-
 
 ## 🛠️ Run the Project
 
 ```bash
-python CSV Uploader App Procedural Final.py
+python CSV Uploader App Procedural mode.py
 Make sure pandas is installed:
 
 bash
-Copier
-Modifier
 pip install pandas
 🧑‍💻 Author
 This project was developed by NGUYEN Chi Thanh as part of the initial Python training program (2025).
