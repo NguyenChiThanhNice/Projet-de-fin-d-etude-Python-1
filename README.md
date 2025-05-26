@@ -44,7 +44,6 @@ python CSV Uploader App Procedural mode.py
 Ce projet a été réalisé par NGUYEN Chi Thanh dans le cadre de la formation Python initiale (2025).
 
 
-
 ENGLISH
 
 # 🧩 CSV File Manager with Graphical Interface (Tkinter)
